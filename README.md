@@ -1,2 +1,2 @@
-https://github-readme-stats.vercel.app/api?username=simaant
+https://github-readme-stats.vercel.app/api?username=Simaant
 
