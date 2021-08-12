@@ -1,5 +1,9 @@
 # Hi! ![](https://komarev.com/ghpvc/?username=Simaant&color=red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simaant&langs_count=5)](https://github.com/Simaant/github-readme-stats)
-![Simaant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simaant&show_icons=true&theme=tokyonight)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simaant&layout=compact&langs_count=5&theme=tokyonight" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Simaant&show_icons=true&hide=prs,issues,contribs&line_height=25&theme=tokyonight" />
+</p>
+
+
 
