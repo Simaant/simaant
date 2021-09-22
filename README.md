@@ -6,6 +6,8 @@ Check out my website here: [simaantpatil.com](https://www.simaantpatil.com)
 
 Kaggle: [kaggle.com/simaant](https://www.kaggle.com/simaant)
 
+Hackerank: [hackerrank.com/simaant1996patil](https://www.hackerrank.com/simaant1996patil)
+
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-informational?logo=scikitlearn&logoColor=white&color=yellow)
