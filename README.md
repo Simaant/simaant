@@ -3,6 +3,8 @@
 This is Simaant. I'm a data scientist with interests in AI and ML in healthcare for good along with a curiosity of use of data science in the media industry. Also, I love traveling in my free time and exploring new music!
 
 Check out my website here: [simaantpatil.com](https://www.simaantpatil.com)
+Kaggle: [kaggle.com/simaant](https://www.kaggle.com/simaant)
+
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-informational?logo=scikitlearn&logoColor=white&color=yellow)
