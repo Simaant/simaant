@@ -1,12 +1,12 @@
 # Hi! ![](https://komarev.com/ghpvc/?username=Simaant&color=red)
 
-This is Simaant. I'm a data scientist with interests in AI and ML in healthcare for good along with a curiosity of use of data science in the media industry. Also, I love traveling in my free time and exploring new music!
+This is Simaant. I'm a data scientist with interests in AI and ML in healthcare, along with a passion for use of data science in the media industry. Also, I love traveling in my free time and exploring new music!
 
 Portfolio Website: [simaantpatil.com](https://www.simaantpatil.com)
 
 Also, check out my [Kaggle](https://www.kaggle.com/simaant), [HackerRank](https://www.hackerrank.com/simaant1996patil), and [Tableau Public](https://public.tableau.com/app/profile/simaantpatil) profiles 
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/)
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/) or through [e-mail](sjpatil@syr.edu)
 
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=orange)
