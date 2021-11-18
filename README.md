@@ -2,11 +2,9 @@
 
 This is Simaant. I'm a data scientist with interests in AI and ML in healthcare for good along with a curiosity of use of data science in the media industry. Also, I love traveling in my free time and exploring new music!
 
-Check out my website here: [simaantpatil.com](https://www.simaantpatil.com)
+Portfolio Website: [simaantpatil.com](https://www.simaantpatil.com)
 
-Kaggle: [kaggle.com/simaant](https://www.kaggle.com/simaant)
-
-Hackerank: [hackerrank.com/simaant1996patil](https://www.hackerrank.com/simaant1996patil)
+Also, check out my [Kaggle](https://www.kaggle.com/simaant), [HackerRank](https://www.hackerrank.com/simaant1996patil), and [Tableau Public](https://public.tableau.com/app/profile/simaantpatil) profiles 
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/)
 
