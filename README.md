@@ -8,6 +8,8 @@ Kaggle: [kaggle.com/simaant](https://www.kaggle.com/simaant)
 
 Hackerank: [hackerrank.com/simaant1996patil](https://www.hackerrank.com/simaant1996patil)
 
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/)
+
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-informational?logo=scikitlearn&logoColor=white&color=yellow)
