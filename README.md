@@ -6,7 +6,7 @@ Portfolio Website: [simaantpatil.com](https://www.simaantpatil.com)
 
 Also, check out my [Kaggle](https://www.kaggle.com/simaant), [HackerRank](https://www.hackerrank.com/simaant1996patil), and [Tableau Public](https://public.tableau.com/app/profile/simaantpatil) profiles 
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/) or through [e-mail](simaant77@gmail.com)
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/simaantpatil/) or through [e-mail](mailto:simaant77@gmail.com)
 
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=orange)
